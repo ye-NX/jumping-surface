@@ -1,1 +1,4 @@
 # jumping-surface
+
+Debouncing - רעידות
+
